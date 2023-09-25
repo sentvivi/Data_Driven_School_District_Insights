@@ -36,6 +36,8 @@ Scores by School Size:
 Scores by School Type:
   * Utilize the per_school_summary DataFrame to create a new DataFrame showcasing school performance based on "School Type"       (e.g., district or charter).
 
+The project will equip district stakeholders with data-driven insights that will facilitate informed decisions regarding school budgets and priorities. By harnessing the power of data, this analysis aims to enhance the educational landscape within the district and improve student outcomes.
+
 
 
 
