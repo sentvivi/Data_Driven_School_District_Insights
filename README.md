@@ -21,5 +21,23 @@ Lowest-Performing Schools (by % Overall Passing):
 Math Scores by Grade:
   * Calculate and create a DataFrame showing average math scores for students in each grade level (9th, 10th, 11th, 12th) at      each school.
 
+Reading Scores by Grade:
+  * Generate a DataFrame displaying average reading scores for students in each grade level (9th, 10th, 11th, 12th) at each       school.
+
+Scores by School Spending:
+  * Organize school performance based on average spending ranges per student.
+  * Utilize pre-defined bins and calculate mean scores per spending range.
+  * Metrics to include: average math score, average reading score, % passing math, % passing reading, % overall passing.
+
+Scores by School Size:
+  * Categorize schools into size categories (small, medium, large) based on total student population.
+  * Analyze performance variations among different school sizes.
+
+Scores by School Type:
+  * Utilize the per_school_summary DataFrame to create a new DataFrame showcasing school performance based on "School Type"       (e.g., district or charter).
+
+
+
+
 
 
