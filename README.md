@@ -4,7 +4,7 @@ As the newly appointed Chief Data Scientist for the city's school district, the 
 
 District Summary:
   * Calculate and compile a high-level overview of critical district metrics.
-  * Metrics to include: total number of unique schools, total students, total budget, average math score, average reading           score, % passing math, % passing reading, % overall passing (students passing both math and reading).
+  * Metrics to include: total number of unique schools, total students, total budget, average math score, average reading         score, % passing math, % passing reading, % overall passing (students passing both math and reading).
 
 School Summary:
   * Generate detailed summaries for each school within the district.
